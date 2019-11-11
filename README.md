@@ -2,13 +2,15 @@
 
 Simple ACT OverlayPlugin skin for [Final Fantasy XIV](http://www.finalfantasyxiv.com/), based on the original OverlayPlugin skin.
 
-## Requirements
+## Usage
+
+### System Requirements
 
  - [Advanced Combat Tracker](http://advancedcombattracker.com)
  - [OverlayPlugin](https://github.com/hibiyasleep/OverlayPlugin)
 
-## Setup
 
+### Quick setup
 - Find and download the [latest release](https://github.com/paufregi/ffxiv-overlay-skin/releases/latest)
 - Unzip it (ie: [ACT_HOME]\Plugin\OverlayPluginSkin)
 - Open ACT
