@@ -92,7 +92,7 @@ function updatePlayersList(data) {
         if (player.Job !== '') {
             player.Job = player.Job.toLowerCase();
         } else if (player.name === 'Limit Break'){
-            player.Job = 'limit-break';
+            player.Job = 'limit';
         } else if (player.name in pet_mapping) {
             player.Job = pet_mapping[player.name]
         }
